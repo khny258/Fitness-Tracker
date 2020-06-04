@@ -21,6 +21,7 @@ nav {
   color: #ffffff;
   height: 80px;
   padding: 10px;
+  display: flex;
   line-height: 3;
   font-size: 1.2rem;
 }
