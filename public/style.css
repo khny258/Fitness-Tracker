@@ -30,6 +30,7 @@ a,
 a:hover,
 a:active,
 a:visited {
+  padding: 10px;
   text-decoration: none;
   color: inherit;
 }
